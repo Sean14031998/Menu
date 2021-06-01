@@ -22,7 +22,7 @@ function App() {
     <main>
       <section className="menu section">
         <div className="title">
-          <h3>Our Menu</h3>
+          <h3>THE MENU</h3>
           <div className="underline"></div>
         </div>
         <Categories categories={categories} setNewItems={setNewItems} />
